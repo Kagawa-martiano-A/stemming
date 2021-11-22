@@ -1,0 +1,11 @@
+TKI 20/12/2020
+probabilsitk model
+informasian retrivel classifikasi/di pandang sbgai maslh spespikasi
+pada model atau smbrg odel mempunyai 2 relevasi dokumen hanya ada 2 dokumen relevan atau non releva 
+mendpatkn sebuah dojumen barutugas search engine masuk ke relevan atau tidak 
+sisitem mengklsifikasi mkan sbgai doum g relevan atau tdk
+menghtung pelunag relvan pada dokimen non relevan dpt memutuskan sendiri dokmen di sebut relevan jika bersyrt relvan dokumen
+
+p(r|d)
+
+gimana sebuah dukumen di katakan relevan 
